@@ -1,0 +1,151 @@
+index,text,actual,predicted,prob_negative,prob_neutral,prob_positive,confidence,sarcasm_flag,emotion_tag,feedback_type,department
+0,Offer meeting daughter somebody throughout environment claim law be.,negative,positive,0.3,0.252,0.447,0.447,0,anger,Infrastructure,CS
+1,Skin memory leader full floor benefit hold room size their responsibility away example card exist imagine them indicate.,negative,neutral,0.369,0.403,0.228,0.403,0,fear,Infrastructure,BIO
+4,Reveal its million teacher now agree.,neutral,negative,0.373,0.298,0.329,0.373,1,anger,Academic,BIO
+6,Son bring simply can image help improve have head doctor.,positive,negative,0.422,0.292,0.287,0.422,0,fear,Infrastructure,CS
+7,Visit fight true identify activity for American realize help last.,positive,negative,0.574,0.168,0.258,0.574,0,joy,Academic,CIVIL
+8,Each condition two high marriage beyond detail.,negative,neutral,0.247,0.407,0.346,0.407,0,joy,Academic,ENG
+9,State before officer avoid apply admit ability red their.,negative,positive,0.34,0.311,0.349,0.349,0,anger,Academic,ECE
+11,Analysis bar record enough experience catch early of entire seem general answer phone attention use strong figure though.,positive,negative,0.568,0.313,0.119,0.568,0,sadness,Academic,CIVIL
+12,Actually large employee likely child lose strong car organization suffer exactly not look.,negative,positive,0.242,0.293,0.465,0.465,0,neutral,Infrastructure,ECE
+16,Everyone relate day business return organization these contain number.,negative,neutral,0.194,0.416,0.39,0.416,0,joy,Instructor,ME
+17,Impact phone leader page support by speech also win nature institution structure cost think common.,positive,negative,0.457,0.294,0.249,0.457,0,sadness,Academic,MBA
+18,Such last operation ability message age often stage that first interest ahead he.,neutral,positive,0.196,0.224,0.58,0.58,0,fear,Academic,MBA
+19,Forget member threat improve fill sea TV huge fine common TV coach institution writer better member.,positive,neutral,0.368,0.385,0.247,0.385,0,neutral,Academic,ENG
+21,Forward animal reach company bank.,negative,neutral,0.226,0.408,0.366,0.408,0,anger,Infrastructure,ENG
+23,Respond suggest pressure suggest control new way gas easy him unit list page rather manage above both of million any.,negative,positive,0.233,0.279,0.488,0.488,0,joy,Instructor,CIVIL
+24,High media teach involve yes son himself.,positive,negative,0.469,0.282,0.25,0.469,0,sadness,Academic,CS
+25,Administration I rise generation find president keep think.,negative,positive,0.381,0.12,0.499,0.499,1,anger,Academic,ECE
+26,Size top suggest president administration economy position light reduce challenge floor street staff light including door picture.,neutral,positive,0.248,0.35,0.402,0.402,0,sadness,Instructor,ME
+28,Them south staff behavior agency modern second four hospital article low interview then.,negative,positive,0.239,0.3,0.461,0.461,0,joy,Instructor,ME
+29,Feeling some four room shoulder challenge join development wind key poor black.,neutral,positive,0.202,0.347,0.452,0.452,0,joy,Academic,BIO
+30,Organization size adult keep human bed region career style explain any.,negative,neutral,0.19,0.412,0.399,0.412,1,anger,Infrastructure,CIVIL
+31,Evening second capital top none investment nation paper whether always senior.,negative,positive,0.309,0.31,0.381,0.381,0,fear,Infrastructure,CS
+33,Why kid class language bit memory.,neutral,positive,0.308,0.3,0.392,0.392,0,anger,Instructor,CS
+35,Evening everything store property environmental.,neutral,negative,0.441,0.275,0.284,0.441,0,fear,Instructor,ME
+38,Education natural recent there out available capital administration establish room.,negative,neutral,0.333,0.411,0.256,0.411,0,neutral,Instructor,BIO
+40,Before development rise main black represent field newspaper rise serve event.,negative,positive,0.281,0.117,0.602,0.602,0,joy,Infrastructure,MBA
+41,Pass involve hundred store by during ball stay though whose similar central.,positive,neutral,0.25,0.477,0.273,0.477,0,anger,Academic,ME
+42,Act provide such anyone financial stage.,neutral,positive,0.265,0.195,0.54,0.54,0,sadness,Academic,ECE
+46,Own soldier up fund your wife difficult between fine.,neutral,positive,0.238,0.219,0.544,0.544,0,surprise,Instructor,ENG
+47,Action hear management popular international community draw try home participant want rise.,neutral,positive,0.17,0.265,0.565,0.565,0,joy,Instructor,CS
+48,Discussion care much fill group study great provide its assume teach field make.,neutral,positive,0.269,0.201,0.53,0.53,0,fear,Academic,MBA
+49,Baby hold down less he area source go or without nation.,positive,negative,0.416,0.195,0.388,0.416,0,surprise,Instructor,ME
+50,To structure against along civil within analysis ever produce air.,negative,positive,0.275,0.221,0.504,0.504,0,sadness,Instructor,CIVIL
+51,Suddenly operation financial sound young special fire through wear west.,neutral,positive,0.165,0.244,0.591,0.591,0,anger,Infrastructure,CIVIL
+54,Provide describe whom green feeling first trouble throughout read wrong onto glass eat.,neutral,positive,0.359,0.079,0.562,0.562,0,anger,Academic,BIO
+56,Sport summer story tonight baby prevent Mr down south little personal leg.,neutral,negative,0.355,0.298,0.347,0.355,0,anger,Academic,BIO
+57,Listen upon card part maybe account good prove require boy human condition yet.,negative,positive,0.142,0.413,0.445,0.445,0,joy,Instructor,MBA
+60,Care animal industry truth single coach no hear customer else foreign lawyer store everything control century wall short.,neutral,positive,0.306,0.306,0.388,0.388,0,anger,Instructor,CIVIL
+62,Teach guess begin husband quality somebody bed wait their education my somebody ready pretty.,negative,positive,0.254,0.354,0.392,0.392,0,anger,Instructor,ECE
+63,Bag suffer race by image collection.,negative,neutral,0.251,0.415,0.334,0.415,0,fear,Infrastructure,ECE
+64,Leader her participant cost mean then series least last matter.,positive,negative,0.372,0.287,0.341,0.372,1,anger,Instructor,ENG
+70,Your free program himself important field response want section language ground ground.,negative,neutral,0.291,0.459,0.25,0.459,0,sadness,Instructor,ECE
+73,Large attorney author save different forget.,negative,positive,0.35,0.139,0.511,0.511,0,surprise,Infrastructure,BIO
+74,Figure color media simple sit national movement kitchen doctor hold sort account.,positive,neutral,0.324,0.458,0.218,0.458,1,fear,Infrastructure,MBA
+77,Television personal citizen answer shake natural success enter.,neutral,negative,0.56,0.258,0.182,0.56,0,anger,Academic,CIVIL
+78,Class vote show future miss report itself nation develop law off maybe participant benefit amount time positive risk raise environment.,neutral,positive,0.197,0.234,0.568,0.568,0,joy,Instructor,MBA
+79,Environmental office choose network expert air station audience police community debate pressure lot imagine single.,negative,positive,0.266,0.211,0.523,0.523,0,sadness,Infrastructure,ECE
+82,Method drop growth west day phone need help.,neutral,negative,0.505,0.179,0.316,0.505,0,sadness,Academic,MBA
+83,This process area collection prove trip program least offer.,positive,negative,0.427,0.163,0.411,0.427,0,neutral,Academic,MBA
+86,Our somebody number bad truth clearly hotel we everyone economy again.,negative,neutral,0.319,0.37,0.311,0.37,0,anger,Instructor,ME
+87,And check anything what analysis look discussion expert impact animal court though very even trip necessary huge.,neutral,positive,0.178,0.236,0.586,0.586,0,surprise,Academic,ENG
+89,See grow especially bad field name certainly bit.,negative,neutral,0.207,0.574,0.22,0.574,0,anger,Academic,MBA
+90,Speak everybody determine lose someone trouble more pressure general themselves they allow number consider prevent reason allow enter yeah act present.,negative,positive,0.207,0.22,0.573,0.573,0,surprise,Infrastructure,MBA
+91,Well each finish language far determine alone once threat.,neutral,positive,0.293,0.292,0.416,0.416,0,surprise,Academic,CIVIL
+92,Apply song whose man heavy movement discover arrive water mind play hand believe risk study everything play kid thank.,neutral,positive,0.31,0.198,0.491,0.491,0,fear,Instructor,CIVIL
+94,Especially force single artist likely successful claim decade dark concern player information it then go trial sing seven.,positive,negative,0.505,0.245,0.25,0.505,0,surprise,Instructor,BIO
+97,Also population fall hundred story sister five make student either high because.,negative,positive,0.334,0.276,0.391,0.391,0,surprise,Instructor,CIVIL
+99,These go care and activity shake special along before ball character pull finally between nothing.,neutral,positive,0.244,0.147,0.609,0.609,1,fear,Infrastructure,ME
+100,Food another baby force explain expert network.,positive,neutral,0.134,0.505,0.361,0.505,1,fear,Academic,CS
+101,Moment agreement country onto pass whether successful blood form statement story could your by agent.,neutral,positive,0.363,0.273,0.364,0.364,0,anger,Instructor,MBA
+103,Institution door key help between mission.,neutral,positive,0.325,0.271,0.404,0.404,0,surprise,Instructor,ME
+104,Break name relate scientist son produce personal talk and as maintain.,neutral,positive,0.249,0.243,0.508,0.508,0,fear,Instructor,ME
+105,Technology language then reflect himself total son billion close white successful true local production wrong according store.,positive,neutral,0.339,0.438,0.223,0.438,0,anger,Instructor,ME
+106,Stuff receive go will nearly line take decision service team respond collection edge give.,neutral,positive,0.293,0.246,0.461,0.461,0,surprise,Infrastructure,ME
+108,Anything treat operation dog as seven baby.,negative,positive,0.302,0.108,0.59,0.59,0,surprise,Instructor,ENG
+110,Ask series truth person structure sort behavior foot senior all western spend blood goal.,positive,negative,0.427,0.28,0.293,0.427,1,neutral,Instructor,ECE
+113,Could strategy question fine kitchen lead TV paper name itself that.,neutral,positive,0.323,0.187,0.49,0.49,0,surprise,Infrastructure,CS
+115,Job down than degree defense have consider between threat take collection traditional citizen cut early charge music student.,positive,neutral,0.152,0.566,0.283,0.566,0,fear,Instructor,ECE
+116,Century wall power firm stay necessary cut car play building program wife collection get without.,neutral,positive,0.281,0.215,0.503,0.503,0,surprise,Academic,ECE
+117,Good cost political street dream finish figure.,negative,positive,0.207,0.308,0.485,0.485,0,surprise,Academic,ME
+118,Inside school group name agency teach not administration interesting serious technology training someone use.,negative,positive,0.393,0.141,0.467,0.467,0,surprise,Infrastructure,CIVIL
+119,Bill five media natural wall free particular no.,negative,neutral,0.341,0.461,0.198,0.461,0,sadness,Infrastructure,MBA
+120,Off theory company team month smile job per.,neutral,positive,0.21,0.356,0.434,0.434,1,sadness,Academic,CIVIL
+121,Happen nor page forget.,neutral,positive,0.2,0.39,0.411,0.411,1,neutral,Instructor,ME
+123,Reality medical girl edge of occur.,negative,neutral,0.312,0.428,0.26,0.428,0,joy,Academic,ENG
+124,Old offer admit allow light meeting clear focus now.,neutral,positive,0.229,0.159,0.613,0.613,0,anger,Infrastructure,ME
+125,Management town coach deep idea create offer decide seem manage.,neutral,positive,0.191,0.333,0.476,0.476,0,joy,Instructor,ECE
+126,Leave man report size easy part give fact same few fast sort.,negative,neutral,0.352,0.444,0.205,0.444,0,sadness,Instructor,BIO
+127,Front challenge wind federal week control out have similar challenge billion oil role writer.,positive,negative,0.411,0.352,0.237,0.411,0,sadness,Instructor,CS
+135,Friend boy culture thought wrong home year agree necessary big require bad million.,negative,neutral,0.253,0.501,0.247,0.501,0,fear,Instructor,MBA
+136,I suffer despite more himself right poor visit service.,neutral,positive,0.271,0.348,0.381,0.381,0,fear,Infrastructure,CIVIL
+137,They real behavior add check product score place expect yet action.,positive,neutral,0.291,0.41,0.3,0.41,1,surprise,Instructor,MBA
+138,Onto myself turn early debate value however shoulder.,positive,negative,0.417,0.32,0.264,0.417,0,sadness,Academic,CS
+139,Kitchen tonight hot leader right series across still college.,positive,neutral,0.256,0.41,0.335,0.41,0,fear,Academic,ME
+140,Establish campaign poor memory rest many sing open entire color reduce child else.,positive,negative,0.369,0.272,0.359,0.369,1,anger,Academic,MBA
+141,The office hand near career figure hand successful loss special change.,positive,negative,0.398,0.32,0.282,0.398,1,fear,Infrastructure,ECE
+142,Lawyer newspaper American art less be language hundred future simply finally gas.,neutral,negative,0.462,0.223,0.315,0.462,0,joy,Instructor,CS
+144,Particularly opportunity perform federal catch news total certainly get tax since reality card arm.,negative,neutral,0.221,0.449,0.33,0.449,1,sadness,Infrastructure,ECE
+146,Value apply low full table power economic great.,negative,positive,0.154,0.319,0.527,0.527,1,fear,Infrastructure,ME
+148,Marriage successful fear plant often national future while according economic heart film successful so artist I hold start might nothing.,positive,neutral,0.392,0.411,0.197,0.411,0,neutral,Academic,ECE
+149,Mention opportunity there talk where address me.,negative,positive,0.229,0.277,0.493,0.493,0,fear,Infrastructure,ENG
+151,Claim position style admit consumer movie understand in whatever.,negative,positive,0.191,0.391,0.419,0.419,0,joy,Academic,CIVIL
+152,Form approach system body least doctor stage tax knowledge physical hospital production author as increase series least.,negative,positive,0.311,0.17,0.519,0.519,0,joy,Academic,ME
+153,Buy throughout economic wonder over back production since think adult just cut low career throughout.,neutral,positive,0.281,0.233,0.486,0.486,0,neutral,Instructor,ENG
+156,Thought present start conference executive her number benefit.,negative,neutral,0.289,0.395,0.315,0.395,0,surprise,Instructor,ME
+157,His behind college reflect describe yard catch hundred line give partner factor.,negative,positive,0.274,0.172,0.554,0.554,0,sadness,Infrastructure,CS
+160,Recognize affect eight enter trip focus.,neutral,negative,0.444,0.134,0.422,0.444,1,sadness,Infrastructure,BIO
+161,Meet point send capital field party Mr population itself attention inside determine arrive himself.,negative,neutral,0.359,0.381,0.26,0.381,0,joy,Academic,BIO
+163,Scene yard necessary free bad five social.,neutral,positive,0.275,0.263,0.462,0.462,1,joy,Infrastructure,ME
+165,Ball network above north local happy positive training vote concern wish service.,neutral,positive,0.18,0.361,0.458,0.458,1,fear,Infrastructure,BIO
+167,Air first country subject dog blue appear site alone rock green while win guy health thank season only hit.,negative,positive,0.263,0.308,0.429,0.429,0,joy,Instructor,ME
+169,Never cause defense follow scene throw clearly believe truth form investment.,neutral,positive,0.411,0.105,0.483,0.483,0,neutral,Instructor,CIVIL
+170,Other apply deal music public size write serve.,positive,neutral,0.307,0.472,0.222,0.472,0,anger,Instructor,CS
+172,This Democrat majority big some stuff civil college citizen.,negative,positive,0.213,0.352,0.435,0.435,1,neutral,Infrastructure,BIO
+174,Various hundred lead chair citizen degree likely my his form plan again six social.,positive,negative,0.495,0.186,0.319,0.495,1,fear,Infrastructure,CIVIL
+175,Popular feeling continue young know public head physical south.,positive,neutral,0.261,0.377,0.362,0.377,0,fear,Academic,ME
+176,Everyone something attorney remember cell true end off catch.,positive,negative,0.558,0.174,0.268,0.558,0,neutral,Infrastructure,MBA
+177,Indeed laugh local art kid president maintain.,positive,negative,0.416,0.173,0.411,0.416,0,joy,Academic,ENG
+178,Major cultural glass religious direction total style yes which thank father.,negative,positive,0.239,0.338,0.423,0.423,1,anger,Infrastructure,ENG
+179,Maintain fear little position western own less line everybody direction.,negative,positive,0.206,0.276,0.518,0.518,1,surprise,Academic,CIVIL
+182,Today line interest view possible religious.,negative,neutral,0.178,0.56,0.262,0.56,0,anger,Academic,MBA
+183,Bill shoulder threat want situation keep model.,negative,positive,0.198,0.179,0.623,0.623,0,sadness,Infrastructure,MBA
+184,Bed morning letter wear old pressure suggest visit each line every for beautiful.,negative,positive,0.203,0.272,0.524,0.524,0,joy,Infrastructure,CS
+185,Day arm role seven nor analysis.,negative,positive,0.31,0.251,0.439,0.439,1,surprise,Infrastructure,ECE
+186,Safe sing miss within site threat also member economy will reach condition pull than.,positive,negative,0.534,0.177,0.289,0.534,0,fear,Academic,CIVIL
+188,Reflect pick position score family few free camera list who direction a item where class age be.,neutral,negative,0.351,0.343,0.306,0.351,0,fear,Infrastructure,ECE
+190,Method notice station often window many cell area role run chance pay stage else stop cut paper field table about.,neutral,positive,0.152,0.222,0.626,0.626,1,anger,Instructor,MBA
+193,Husband establish low record indeed conference should.,positive,negative,0.507,0.239,0.253,0.507,0,joy,Instructor,CS
+198,Choose contain less beautiful rather senior week year our everybody change glass foreign system up race among stand source.,positive,negative,0.383,0.29,0.327,0.383,0,surprise,Infrastructure,CIVIL
+200,Single dinner view front cause already such herself go crime.,positive,negative,0.444,0.25,0.306,0.444,0,surprise,Instructor,CIVIL
+201,Do candidate a mission stop cover certain rule manage girl whether town open rest build anything debate.,neutral,positive,0.312,0.317,0.371,0.371,0,neutral,Infrastructure,ECE
+202,Institution top outside night sea approach information break season face.,positive,neutral,0.288,0.43,0.282,0.43,0,anger,Instructor,BIO
+203,Car prepare everyone work raise itself movie reduce say during man figure born shoulder see success during teacher cost nice our.,positive,negative,0.346,0.338,0.316,0.346,1,neutral,Instructor,ME
+204,Institution mother per exist network trouble remain market oil eight mention story response.,negative,positive,0.198,0.384,0.418,0.418,0,neutral,Infrastructure,BIO
+208,Arm clear call within raise senior late fund opportunity question process myself sea other.,neutral,positive,0.284,0.205,0.511,0.511,0,neutral,Infrastructure,MBA
+209,Himself only bit seek hope world cultural back like population draw place away wrong provide player early such.,neutral,positive,0.285,0.29,0.426,0.426,0,neutral,Infrastructure,MBA
+210,Mother edge Mrs enough nothing air stage office be enter very truth democratic statement just weight serious hope ask.,neutral,negative,0.453,0.155,0.392,0.453,0,joy,Academic,MBA
+213,Task us form indeed need read thousand probably catch table financial yard suggest however.,negative,positive,0.277,0.193,0.53,0.53,0,sadness,Instructor,CS
+215,Different bill understand set decide event instead skill.,negative,positive,0.184,0.149,0.666,0.666,0,neutral,Instructor,ME
+216,Public we type law church month catch.,positive,negative,0.562,0.296,0.142,0.562,0,neutral,Infrastructure,ENG
+218,Task we upon decision try lead however apply hope do song cover offer network discuss.,negative,positive,0.241,0.237,0.521,0.521,0,surprise,Academic,CIVIL
+219,Alone again mention million Democrat computer life.,negative,positive,0.264,0.107,0.628,0.628,0,neutral,Infrastructure,MBA
+220,View father back good personal life in later author international discussion increase.,neutral,positive,0.14,0.252,0.608,0.608,0,fear,Academic,CIVIL
+221,Need her begin instead seek actually support attention organization film energy.,positive,negative,0.382,0.315,0.303,0.382,0,neutral,Academic,ENG
+222,Myself enjoy sure tell vote issue modern road both fly.,negative,positive,0.138,0.252,0.61,0.61,0,joy,Infrastructure,MBA
+223,Effort agreement most finish evening reason figure message main hospital street lot.,positive,negative,0.535,0.188,0.277,0.535,0,surprise,Instructor,CS
+225,He everyone doctor artist hundred mouth head fall cup small sister PM school final color ten magazine enjoy key modern.,negative,positive,0.218,0.266,0.516,0.516,0,anger,Infrastructure,ECE
+226,Thousand experience game can leg lose most some bed though.,positive,negative,0.467,0.403,0.131,0.467,0,joy,Infrastructure,ENG
+227,Break deep reduce beyond may understand discussion realize speech figure.,neutral,positive,0.216,0.373,0.411,0.411,0,joy,Instructor,CS
+228,Move body pattern now often push tell pressure probably choice statement manager movie foreign oil arrive nor company wall.,neutral,positive,0.255,0.284,0.461,0.461,0,sadness,Infrastructure,ECE
+230,Avoid whom interest travel little put ask everything rule.,positive,negative,0.366,0.269,0.365,0.366,0,fear,Instructor,ENG
+232,Recently protect run response operation hair end five back chance produce.,negative,positive,0.094,0.18,0.725,0.725,0,sadness,Instructor,CS
+234,Must hope science suggest spring thought police discover during west although your themselves.,negative,positive,0.216,0.3,0.484,0.484,1,fear,Academic,ENG
+237,Ability difficult recently difficult individual gun product indeed medical military bit huge design.,positive,neutral,0.254,0.471,0.275,0.471,0,anger,Instructor,CIVIL
+238,About particular film else continue field run across home morning vote.,negative,neutral,0.271,0.424,0.306,0.424,1,anger,Instructor,BIO
+239,Or career beyond win effort song raise but opportunity defense police tough.,neutral,positive,0.252,0.208,0.54,0.54,1,joy,Academic,MBA
+241,Opportunity network guy training there budget material tough religious skill TV.,neutral,positive,0.16,0.222,0.618,0.618,1,joy,Infrastructure,MBA
+242,Blood four middle describe policy either page future begin teach mouth.,neutral,positive,0.308,0.265,0.428,0.428,1,sadness,Instructor,CIVIL
+243,Environment try poor test idea option population kitchen be article including care its job itself short.,neutral,positive,0.151,0.396,0.453,0.453,0,sadness,Instructor,ME
+244,Early table see top mother keep mind stage chance also.,negative,neutral,0.184,0.454,0.362,0.454,0,sadness,Academic,ECE
